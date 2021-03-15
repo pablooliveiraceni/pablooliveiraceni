@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-# 🌱 I’m currently learning Java
-# 💬 Ask me about JavaScript
+#### 🌱 I’m currently learning Java
+#### 💬 Ask me about JavaScript
 
 
